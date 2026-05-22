@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "KwUHY79niyXcqxfvscZhSrlBtQY", "spine": "3.8.75", "images": "./eff/images/", "audio": "" },
+"skeleton": { "hash": "KwUHY79niyXcqxfvscZhSrlBtQY", "spine": "3.8.72", "images": "./eff/images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "combo2", "parent": "root", "x": -543, "y": -204.03, "color": "ff0000ff" },
